@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:yuriko-pixel/yuriko-pixel.github.io.git
-  branch: master
+  branch: main
